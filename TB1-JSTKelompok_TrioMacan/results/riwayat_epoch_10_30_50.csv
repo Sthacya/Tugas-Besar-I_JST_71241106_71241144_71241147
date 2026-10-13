@@ -1,0 +1,11 @@
+,Pembaruan salah / J (sesudah update),Pembaruan salah / J (sesudah update),Pembaruan salah / J (sesudah update),Akurasi latih,Akurasi latih,Akurasi latih
+Epoch,10,30,50,10,30,50
+Konfigurasi,,,,,,
+Perceptron η=0.001 std,96.0,97.0,97.0,0.9255,0.92,0.92
+Perceptron η=0.01 std,96.0,97.0,97.0,0.9255,0.92,0.92
+Perceptron η=0.1 std,96.0,97.0,97.0,0.9255,0.92,0.92
+ADALINE η=0.001 std,0.4929,0.4793,0.4663,0.8973,0.898,0.8988
+ADALINE η=0.01 std,0.436,0.3462,0.2903,0.9004,0.9098,0.9169
+ADALINE η=0.1 std,0.2218,0.1941,0.1938,0.9333,0.9404,0.9412
+Perceptron η=0.01 raw,98.0,99.0,105.0,0.9325,0.9325,0.9043
+ADALINE η=0.01 raw,0.4312,0.3607,0.3279,0.7592,0.7592,0.7592
