@@ -13,8 +13,8 @@
 # Struktur dan tautan berkas
 | Berkas | Isi |
 |---|---|
-| [TB1_KelompokXX.ipynb](TB1_KelompokTrioMacan.ipynb) | Notebook lengkap: kode, penjelasan, hitungan manual, 8 pelatihan, hasil, diagnostik, pembahasan, lampiran |
-| [TB1_KelompokXX.pdf](TB1_KelompokTrioMacan.pdf) | Laporan (isi utama 7 halaman, di luar sampul, daftar pustaka, dan lampiran) |
+| [TB1_KelompokTrioMacan.ipynb](TB1_KelompokTrioMacan.ipynb) | Notebook lengkap: kode, penjelasan, hitungan manual, 8 pelatihan, hasil, diagnostik, pembahasan, lampiran |
+| [TB1_KelompokTrioMacan.pdf](TB1_KelompokTrioMacan.pdf) | Laporan (isi utama 7 halaman, di luar sampul, daftar pustaka, dan lampiran) |
 | [Presentasi_TB1.pdf](Presentasi_TB1.pdf) | Slide presentasi (7 slide) |
 | [dataset.csv](dataset.csv) | Data yang dipakai eksperimen: 1594 baris (`unacc` 1210 + `acc` 384), 6 fitur + `class` |
 | [car_evaluation_full.csv](car_evaluation_full.csv) | Dataset penuh 4 kelas (1728 baris), hanya untuk deskripsi |
