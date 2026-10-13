@@ -1,2 +1,5 @@
-# Tugas-Besar-I_JST_71241106_71241144_71241147
+# Tugas-Besar-I_JST
 Nama Anggota_NIM : 
+- Sthacya Marela Elsithalia Lakamola_71241106
+- Sandy Rehan Linta'_71241144
+- Yosiabes Priarsono_71241147 
